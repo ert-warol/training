@@ -1,0 +1,68 @@
+Модули Друпал 7
+
+inline entity form                     - Multiple values
+Localization update 
+Internationalization
+Data                                   - работа с таблицами
+Charts and Graphs
+Charts
+@font-your-face
+Quick Tabs
+ckeditor
+One Click Upload
+imce
+Video Embed Field
+Libraries API
+Ctools
+Token
+Metatag
+Pathauto
+Transliteration
+Exclude Node Title
+Contact form blocks
+Switchtheme
+Administration menu
+Taxonomy menu
+Block Visibility by Vocabularies
+Menu block
+Nice Menus
+Hierarchical Select
+Webform Term Options
+Drupal Commerce (Commerce)
+Commerce Product Option (Commerce)
+Commerce Migrate (Commerce)
+Commerce Feeds (Commerce)
+Commerce (Product Display Manager)  (Commerce)
+Auto sku (Commerce)
+Commerce Extra(Commerce)
+Inline Entity Form (Commerce)
+Addressfield (Commerce)
+Entity API
+Rules
+Ctools
+Views
+Views Slideshow   
+feeds
+Path Breadcrumbs
+Devel
+Profile2 Поддерживает настраиваемые анкетные данные (профили) пользователей.
+Inline Messages  — вывод сообщений в том блоке, где возникла проблема
+Rules
+menuimage
+Menu Icons
+ImageCache
+jQuery Update
+Video
+
+Authenticated User Page Caching (Authcache)
+CDN
+ImageAPI Optimize
+Fast 404
+Entity cache
+
+Thems
+
+Software
++79242637151
+aleksey.stepin@hyuna.bb
+ERT_warol1932 git ert-warol
