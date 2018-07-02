@@ -34,5 +34,7 @@ if($validate) {
 
 echo '</br>'.' Тип переменной равен - ' . $mainResult;
 
+var_dump($validate);
+
 
  
