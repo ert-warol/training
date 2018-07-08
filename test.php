@@ -1,5 +1,9 @@
 <?php
 
+require('main-template.php');
+
+echo
+
 $double = 2.3;
 $string = 'Hello';
 $boolean = TRUE;
@@ -7,19 +11,45 @@ $boolean = TRUE;
 $result = $integer . $string;
 $main = "<h1> $result </h1>";
 $empty;
-$integer = 5;
+$integer = 6;
 
-$integer += 2; //7
-$integer -= 2; //5
-$integer *= 2; //10
-$integer /= 2; //5
-$integer %= 2; 
-$integer .= ' test';
-$integer = $integer + $boolean;
+$value = $integer;
 
-//$integer = gettype($integer);
+if($value !== '5' && $value === 6) {	
+	$text = '<h1 style="text-align: center"> $integer = ' . $value . '</h1>';
+} else {
+    $text = '<h1 style="text-align: center"> We have not result </h1>';
+}
 
-echo '<h1 style="text-align: center"> $integer = ' . $integer . '</h1>';
+$text_html .= '<body style="background: grey;"> . $text .</body>';
+
+echo $text_html;
+
+
+
+/*
+
+==
+===
+!=
+!==
+>=
+<=
+<
+>
+
+or ||
+and &&
+
+*/
+
+
+
+
+
+
+
+
 
 
 
